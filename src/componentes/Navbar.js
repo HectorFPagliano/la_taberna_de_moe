@@ -3,8 +3,8 @@ const Navbar = () =>  {
         <nav>
             <ul>
                 <li>inicio</li>
-                <li>inicio</li>
-                <li>inicio</li>
+                <li>Preguntas Frecuentes</li>
+                <li>Contacto</li>
             </ul>
         </nav>
     )
